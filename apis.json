@@ -1,0 +1,83 @@
+{
+    "name": "AudioMicro",
+    "description": "Royalty Free stock music for any project - web, YouTube, film, TV, radio, DVDs, games, apps & more. License music and sound effects today from AudioMicro.",
+    "image": "http:\/\/kinlane-productions.s3.amazonaws.com\/screen-capture-api\/693-audiomicro.jpg",
+    "tags": [
+        "api provider",
+        "have api",
+        "no api definition",
+        "sound",
+        "sound effects"
+    ],
+    "created": "2019-12-19",
+    "modified": "2019-12-19",
+    "url": "https:\/\/raw.githubusercontent.com\/api-evangelist\/audiomicro\/master\/apis.json",
+    "specificationVersion": "0.14",
+    "apis": [
+        {
+            "name": "AudioMicro",
+            "description": null,
+            "image": "http:\/\/kinlane-productions.s3.amazonaws.com\/screen-capture-api\/693-audiomicro.jpg",
+            "humanURL": "http:\/\/www.audiomicro.com",
+            "baseURL": "",
+            "tags": [],
+            "properties": [
+                {
+                    "type": "x-openapi",
+                    "url": "https:\/\/raw.githubusercontent.com\/api-evangelist\/1forge\/master\/audiomicro-openapi.json"
+                }
+            ]
+        }
+    ],
+    "include": [],
+    "x-common": [
+        {
+            "type": "Base",
+            "url": "http:\/\/api.audiomicro.com"
+        },
+        {
+            "type": "Blog",
+            "url": "http:\/\/www.audiomicro.com\/royalty-free-music-blog\/"
+        },
+        {
+            "type": "Blog RSS",
+            "url": "http:\/\/www.audiomicro.com\/royalty-free-music-blog\/feed\/"
+        },
+        {
+            "type": "Crunchbase",
+            "url": "https:\/\/crunchbase.com\/organization\/audiomicro"
+        },
+        {
+            "type": "Crunchbase",
+            "url": "http:\/\/www.crunchbase.com\/company\/audiomicro"
+        },
+        {
+            "type": "Developers",
+            "url": "http:\/\/www.audiomicro.com\/api"
+        },
+        {
+            "type": "Documentation",
+            "url": "https:\/\/www.audiomicro.com\/api"
+        },
+        {
+            "type": "Email",
+            "url": "support@audiomicro.com"
+        },
+        {
+            "type": "Pricing",
+            "url": "http:\/\/www.audiomicro.com\/license"
+        },
+        {
+            "type": "Pricing",
+            "url": "http:\/\/www.audiomicro.com\/license"
+        },
+        {
+            "type": "Twitter",
+            "url": "https:\/\/twitter.com\/audiomicro"
+        },
+        {
+            "type": "Website",
+            "url": "http:\/\/www.audiomicro.com"
+        }
+    ]
+}
